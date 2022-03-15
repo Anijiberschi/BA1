@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f9199f06-4ded-4ea7-b7c7-4ad764927a74": {
+      "ProjectGuid": "f9199f06-4ded-4ea7-b7c7-4ad764927a74",
+      "DisplayName": "Simon",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

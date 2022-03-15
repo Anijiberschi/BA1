@@ -1,0 +1,11 @@
+C:\Users\arthu\Desktop\Cours HELB\C#\App1Test\App1Test\bin\Debug\App1Test.exe.config
+C:\Users\arthu\Desktop\Cours HELB\C#\App1Test\App1Test\bin\Debug\App1Test.exe
+C:\Users\arthu\Desktop\Cours HELB\C#\App1Test\App1Test\bin\Debug\App1Test.pdb
+C:\Users\arthu\Desktop\Cours HELB\C#\App1Test\App1Test\obj\Debug\App1Test.csproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\Cours HELB\C#\App1Test\App1Test\obj\Debug\App1Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\arthu\Desktop\Cours HELB\C#\App1Test\App1Test\obj\Debug\App1Test.Form1.resources
+C:\Users\arthu\Desktop\Cours HELB\C#\App1Test\App1Test\obj\Debug\App1Test.Properties.Resources.resources
+C:\Users\arthu\Desktop\Cours HELB\C#\App1Test\App1Test\obj\Debug\App1Test.csproj.GenerateResource.cache
+C:\Users\arthu\Desktop\Cours HELB\C#\App1Test\App1Test\obj\Debug\App1Test.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\Cours HELB\C#\App1Test\App1Test\obj\Debug\App1Test.exe
+C:\Users\arthu\Desktop\Cours HELB\C#\App1Test\App1Test\obj\Debug\App1Test.pdb

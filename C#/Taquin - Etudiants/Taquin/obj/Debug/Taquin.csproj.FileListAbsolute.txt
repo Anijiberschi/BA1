@@ -1,0 +1,36 @@
+D:\Helb\2012-2013\C#-B2\Cours 2012\Cours\Visual Studio\Taquin\Taquin\bin\Debug\Taquin.exe.config
+D:\Helb\2012-2013\C#-B2\Cours 2012\Cours\Visual Studio\Taquin\Taquin\bin\Debug\Taquin.exe
+D:\Helb\2012-2013\C#-B2\Cours 2012\Cours\Visual Studio\Taquin\Taquin\bin\Debug\Taquin.pdb
+D:\Helb\2012-2013\C#-B2\Cours 2012\Cours\Visual Studio\Taquin\Taquin\obj\Debug\Taquin.Form1.resources
+D:\Helb\2012-2013\C#-B2\Cours 2012\Cours\Visual Studio\Taquin\Taquin\obj\Debug\Taquin.Properties.Resources.resources
+D:\Helb\2012-2013\C#-B2\Cours 2012\Cours\Visual Studio\Taquin\Taquin\obj\Debug\Taquin.csproj.GenerateResource.Cache
+D:\Helb\2012-2013\C#-B2\Cours 2012\Cours\Visual Studio\Taquin\Taquin\obj\Debug\Taquin.exe
+D:\Helb\2012-2013\C#-B2\Cours 2012\Cours\Visual Studio\Taquin\Taquin\obj\Debug\Taquin.pdb
+D:\Helb\2012-2013\C#-B2\Cours 2012\Cours\Visual Studio\Taquin\Taquin\obj\Debug\Taquin.csprojResolveAssemblyReference.cache
+D:\Helb\VisualStudio\Taquin\Taquin\bin\Debug\Taquin.exe.config
+D:\Helb\VisualStudio\Taquin\Taquin\obj\Debug\Taquin.exe
+D:\Helb\VisualStudio\Taquin\Taquin\obj\Debug\Taquin.pdb
+D:\Helb\VisualStudio\Taquin\Taquin\bin\Debug\Taquin.exe
+D:\Helb\VisualStudio\Taquin\Taquin\bin\Debug\Taquin.pdb
+D:\Helb\VisualStudio\Taquin\Taquin\obj\Debug\Taquin.csprojResolveAssemblyReference.cache
+D:\Helb\VisualStudio\Taquin\Taquin\obj\Debug\Taquin.Form1.resources
+D:\Helb\VisualStudio\Taquin\Taquin\obj\Debug\Taquin.Properties.Resources.resources
+D:\Helb\VisualStudio\Taquin\Taquin\obj\Debug\Taquin.csproj.GenerateResource.Cache
+C:\Helb\VisualStudio\IG1\Taquin\Taquin\bin\Debug\Taquin.exe.config
+C:\Helb\VisualStudio\IG1\Taquin\Taquin\bin\Debug\Taquin.exe
+C:\Helb\VisualStudio\IG1\Taquin\Taquin\bin\Debug\Taquin.pdb
+C:\Helb\VisualStudio\IG1\Taquin\Taquin\obj\Debug\Taquin.csprojResolveAssemblyReference.cache
+C:\Helb\VisualStudio\IG1\Taquin\Taquin\obj\Debug\Taquin.Form1.resources
+C:\Helb\VisualStudio\IG1\Taquin\Taquin\obj\Debug\Taquin.Properties.Resources.resources
+C:\Helb\VisualStudio\IG1\Taquin\Taquin\obj\Debug\Taquin.csproj.GenerateResource.Cache
+C:\Helb\VisualStudio\IG1\Taquin\Taquin\obj\Debug\Taquin.exe
+C:\Helb\VisualStudio\IG1\Taquin\Taquin\obj\Debug\Taquin.pdb
+C:\Helb\VisualStudio\IG1\Taquin - Etudiants\Taquin\bin\Debug\Taquin.exe.config
+C:\Helb\VisualStudio\IG1\Taquin - Etudiants\Taquin\obj\Debug\Taquin.exe
+C:\Helb\VisualStudio\IG1\Taquin - Etudiants\Taquin\obj\Debug\Taquin.pdb
+C:\Helb\VisualStudio\IG1\Taquin - Etudiants\Taquin\obj\Debug\Taquin.csprojResolveAssemblyReference.cache
+C:\Helb\VisualStudio\IG1\Taquin - Etudiants\Taquin\obj\Debug\Taquin.Form1.resources
+C:\Helb\VisualStudio\IG1\Taquin - Etudiants\Taquin\obj\Debug\Taquin.Properties.Resources.resources
+C:\Helb\VisualStudio\IG1\Taquin - Etudiants\Taquin\obj\Debug\Taquin.csproj.GenerateResource.Cache
+C:\Helb\VisualStudio\IG1\Taquin - Etudiants\Taquin\bin\Debug\Taquin.exe
+C:\Helb\VisualStudio\IG1\Taquin - Etudiants\Taquin\bin\Debug\Taquin.pdb
