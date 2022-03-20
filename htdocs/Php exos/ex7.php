@@ -30,16 +30,15 @@ for($i=0; $i <9;$i++)
     }
     $html.="</tr>\n";
 }
-
 $jouer=<<<EOT
 <input type="submit" value="Jouer"/>
 </form>\n
 EOT;
+$html.="</table>\n".$jouer."<br>";
 
-
-$html.="</table>\n".$jouer;
 
 
 $html.="</body>\n</html>";
 
 echo $html;
+
