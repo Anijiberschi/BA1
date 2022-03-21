@@ -8,10 +8,11 @@
 body{
     background-image:url("../Images/Background.jpg");
     height: 180vh;
+    background-size:cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: relative;
-    position: relative;
+    background-position:center;
 }
 
 nav{
@@ -24,11 +25,12 @@ nav{
 
 .index li:hover{
     background-color:gray;
+    
 }
 nav li{
     text-decoration: none;
     display:inline-block;
-    padding: 20px;
+    padding: 20px 30px 20px 30px;
     cursor:pointer;
     transition: .5s ease-in;
 }

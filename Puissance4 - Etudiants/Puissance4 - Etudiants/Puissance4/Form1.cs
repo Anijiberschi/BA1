@@ -92,7 +92,7 @@ namespace Puissance4
             int col = e.ColumnIndex;
 
             PosInMat(col);
-
+            ChangeJoueur();
         }
 
         private void PosInMat(int col)
@@ -104,20 +104,19 @@ namespace Puissance4
             {
                 matrice[row, col] = jouer_actif;
                 JetonsCol[col]++;
-                ChangeJoueur();
+
                 TabToGrid(row, col);
-                
+                checkHorizontal();
             }
             
         }
 
 
-        private void checkHorizontal(int row, int col)
+        private void checkHorizontal()
         {
-            if (col == 0)
-            {
-                
-            }
+            
+        }
+           
 
         private void ChangeJoueur()
         {
