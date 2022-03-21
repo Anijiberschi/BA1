@@ -1,0 +1,56 @@
+D:\Helb\2012-2013\C#-B2\Cours 2012\Cours\Visual Studio\Puissance4\Puissance4\bin\Debug\Puissance4.exe.config
+D:\Helb\2012-2013\C#-B2\Cours 2012\Cours\Visual Studio\Puissance4\Puissance4\bin\Debug\Puissance4.exe
+D:\Helb\2012-2013\C#-B2\Cours 2012\Cours\Visual Studio\Puissance4\Puissance4\bin\Debug\Puissance4.pdb
+D:\Helb\2012-2013\C#-B2\Cours 2012\Cours\Visual Studio\Puissance4\Puissance4\obj\Debug\Puissance4.Form1.resources
+D:\Helb\2012-2013\C#-B2\Cours 2012\Cours\Visual Studio\Puissance4\Puissance4\obj\Debug\Puissance4.Properties.Resources.resources
+D:\Helb\2012-2013\C#-B2\Cours 2012\Cours\Visual Studio\Puissance4\Puissance4\obj\Debug\Puissance4.csproj.GenerateResource.Cache
+D:\Helb\2012-2013\C#-B2\Cours 2012\Cours\Visual Studio\Puissance4\Puissance4\obj\Debug\Puissance4.exe
+D:\Helb\2012-2013\C#-B2\Cours 2012\Cours\Visual Studio\Puissance4\Puissance4\obj\Debug\Puissance4.pdb
+D:\Helb\2012-2013\C#-B2\Cours 2012\Cours\Visual Studio\Puissance4\Puissance4\obj\Debug\Puissance4.csprojResolveAssemblyReference.cache
+D:\Helb\VisualStudio\Puissance4\Puissance4\bin\Debug\Puissance4.exe.config
+D:\Helb\VisualStudio\Puissance4\Puissance4\bin\Debug\Puissance4.exe
+D:\Helb\VisualStudio\Puissance4\Puissance4\bin\Debug\Puissance4.pdb
+D:\Helb\VisualStudio\Puissance4\Puissance4\obj\Debug\Puissance4.csprojResolveAssemblyReference.cache
+D:\Helb\VisualStudio\Puissance4\Puissance4\obj\Debug\Puissance4.Form1.resources
+D:\Helb\VisualStudio\Puissance4\Puissance4\obj\Debug\Puissance4.Properties.Resources.resources
+D:\Helb\VisualStudio\Puissance4\Puissance4\obj\Debug\Puissance4.csproj.GenerateResource.Cache
+D:\Helb\VisualStudio\Puissance4\Puissance4\obj\Debug\Puissance4.exe
+D:\Helb\VisualStudio\Puissance4\Puissance4\obj\Debug\Puissance4.pdb
+C:\Helb\VisualStudio\IG2\Puissance4\Puissance4\bin\Debug\Puissance4.exe.config
+C:\Helb\VisualStudio\IG2\Puissance4\Puissance4\bin\Debug\Puissance4.exe
+C:\Helb\VisualStudio\IG2\Puissance4\Puissance4\bin\Debug\Puissance4.pdb
+C:\Helb\VisualStudio\IG2\Puissance4\Puissance4\obj\Debug\Puissance4.csprojResolveAssemblyReference.cache
+C:\Helb\VisualStudio\IG2\Puissance4\Puissance4\obj\Debug\Puissance4.Form1.resources
+C:\Helb\VisualStudio\IG2\Puissance4\Puissance4\obj\Debug\Puissance4.Properties.Resources.resources
+C:\Helb\VisualStudio\IG2\Puissance4\Puissance4\obj\Debug\Puissance4.csproj.GenerateResource.Cache
+C:\Helb\VisualStudio\IG2\Puissance4\Puissance4\obj\Debug\Puissance4.exe
+C:\Helb\VisualStudio\IG2\Puissance4\Puissance4\obj\Debug\Puissance4.pdb
+C:\Helb\VisualStudio\IG1\Puissance4\Puissance4\bin\Debug\Puissance4.exe.config
+C:\Helb\VisualStudio\IG1\Puissance4\Puissance4\bin\Debug\Puissance4.exe
+C:\Helb\VisualStudio\IG1\Puissance4\Puissance4\bin\Debug\Puissance4.pdb
+C:\Helb\VisualStudio\IG1\Puissance4\Puissance4\obj\Debug\Puissance4.Form1.resources
+C:\Helb\VisualStudio\IG1\Puissance4\Puissance4\obj\Debug\Puissance4.Properties.Resources.resources
+C:\Helb\VisualStudio\IG1\Puissance4\Puissance4\obj\Debug\Puissance4.csproj.GenerateResource.Cache
+C:\Helb\VisualStudio\IG1\Puissance4\Puissance4\obj\Debug\Puissance4.exe
+C:\Helb\VisualStudio\IG1\Puissance4\Puissance4\obj\Debug\Puissance4.pdb
+C:\Helb\VisualStudio\IG1\Puissance4\Puissance4\obj\Debug\Puissance4.csprojResolveAssemblyReference.cache
+C:\Helb\VisualStudio\IG1\Puissance4 - Etudiants\Puissance4\obj\Debug\Puissance4.csprojResolveAssemblyReference.cache
+C:\Helb\VisualStudio\IG1\Puissance4 - Etudiants\Puissance4\obj\Debug\Puissance4.Form1.resources
+C:\Helb\VisualStudio\IG1\Puissance4 - Etudiants\Puissance4\obj\Debug\Puissance4.Properties.Resources.resources
+C:\Helb\VisualStudio\IG1\Puissance4 - Etudiants\Puissance4\obj\Debug\Puissance4.csproj.GenerateResource.Cache
+C:\Helb\VisualStudio\IG1\Puissance4 - Etudiants\Puissance4\obj\Debug\Puissance4.exe
+C:\Helb\VisualStudio\IG1\Puissance4 - Etudiants\Puissance4\bin\Debug\Puissance4.exe.config
+C:\Helb\VisualStudio\IG1\Puissance4 - Etudiants\Puissance4\bin\Debug\Puissance4.exe
+C:\Helb\VisualStudio\IG1\Puissance4 - Etudiants\Puissance4\bin\Debug\Puissance4.pdb
+C:\Helb\VisualStudio\IG1\Puissance4 - Etudiants\Puissance4\obj\Debug\Puissance4.pdb
+C:\Users\arthu\Desktop\Cours HELB\BA1\Puissance4 - Etudiants\Puissance4 - Etudiants\Puissance4\bin\Debug\Puissance4.exe.config
+C:\Users\arthu\Desktop\Cours HELB\BA1\Puissance4 - Etudiants\Puissance4 - Etudiants\Puissance4\bin\Debug\Puissance4.exe
+C:\Users\arthu\Desktop\Cours HELB\BA1\Puissance4 - Etudiants\Puissance4 - Etudiants\Puissance4\bin\Debug\Puissance4.pdb
+C:\Users\arthu\Desktop\Cours HELB\BA1\Puissance4 - Etudiants\Puissance4 - Etudiants\Puissance4\obj\Debug\Puissance4.csproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\Cours HELB\BA1\Puissance4 - Etudiants\Puissance4 - Etudiants\Puissance4\obj\Debug\Puissance4.csproj.SuggestedBindingRedirects.cache
+C:\Users\arthu\Desktop\Cours HELB\BA1\Puissance4 - Etudiants\Puissance4 - Etudiants\Puissance4\obj\Debug\Puissance4.Form1.resources
+C:\Users\arthu\Desktop\Cours HELB\BA1\Puissance4 - Etudiants\Puissance4 - Etudiants\Puissance4\obj\Debug\Puissance4.Properties.Resources.resources
+C:\Users\arthu\Desktop\Cours HELB\BA1\Puissance4 - Etudiants\Puissance4 - Etudiants\Puissance4\obj\Debug\Puissance4.csproj.GenerateResource.cache
+C:\Users\arthu\Desktop\Cours HELB\BA1\Puissance4 - Etudiants\Puissance4 - Etudiants\Puissance4\obj\Debug\Puissance4.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\Cours HELB\BA1\Puissance4 - Etudiants\Puissance4 - Etudiants\Puissance4\obj\Debug\Puissance4.exe
+C:\Users\arthu\Desktop\Cours HELB\BA1\Puissance4 - Etudiants\Puissance4 - Etudiants\Puissance4\obj\Debug\Puissance4.pdb
