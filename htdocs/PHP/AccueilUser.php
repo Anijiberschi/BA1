@@ -12,19 +12,27 @@
 </head>
 
 <body>
-    
-
-    <div class="logo">    
-        <img src="../Images/logo.ico" alt="Logo">
-    </div>
-
-        <nav>
-            <ul class="index">
-                <li><a href="#">Boutique</a></li>    
-                <li><a href="#">Partenariat</a></li>    
-                <li><a href="#">Planning</a></li>    
-                <li><a href="#">Stream</a></li>    
-                <li><a href="#">Vod</a></li>
+        <nav class="navBar">
+            
+            <ul class="naviList">
+                <li>
+                    <a class="list-logo" href="#">LOGO</a>
+                </li>
+                <li class="list-item">
+                    <a href="#">Boutique</a>
+                </li>    
+                <li class="list-item">
+                    <a href="#">Partenariat</a>
+                </li>    
+                <li class="list-item">
+                    <a href="#">Planning</a>
+                </li>    
+                <li class="list-item">
+                    <a href="#">Stream</a>
+                </li>    
+                <li class="list-item">
+                    <a href="#">Vod</a>
+                </li>
             </ul>
         </nav>
     
