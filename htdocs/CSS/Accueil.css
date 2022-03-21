@@ -1,0 +1,44 @@
+@charset "utf-8";
+*{
+    font-family: 'Pacifico', cursive;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image:url("../Images/Background.jpg");
+    height: 180vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: relative;
+    position: relative;
+}
+
+nav{
+    background-color: rgba(0, 0, 0, 0.9);
+    overflow:auto;
+}
+.index{
+    text-align: center;
+}
+
+.index li:hover{
+    background-color:gray;
+}
+nav li{
+    text-decoration: none;
+    display:inline-block;
+    padding: 20px;
+    cursor:pointer;
+    transition: .5s ease-in;
+}
+.index a{
+    color:#fae;
+    text-decoration:none;
+}
+.logo img{
+   position:absolute;
+   margin-top:15px;
+   margin-left: 50px;
+   width:50px
+}
