@@ -24,7 +24,9 @@
                     <li><a href="#">Vod</a></li>
                 </ul>
             </nav>
-            <a class="login" href="#"><button>Connexion<button</a>
+            <a class="login" href="#">
+                <button>Connexion</button>
+            </a>
     </header>
 </body>
 </html>
