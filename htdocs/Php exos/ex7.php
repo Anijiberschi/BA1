@@ -35,7 +35,7 @@ for($i=0; $i <$max_row;$i++)
         <td><input type="checkbox" name ="liste[]" value="$number">$number</td>
         FDL;
         $html.=$ligneTab."\n";
-    }
+    } 
     $html.="</tr>\n";
 }
 $jouer=<<<EOT
@@ -44,8 +44,8 @@ $jouer=<<<EOT
 EOT;
 $html.="</table>\n".$jouer."<br><p>Nombre d'elem trouvés</p>";
 
-if (isset($_GET['submit']) && !empty($_POST["list"]))
-    {foreach ($_POST['liste'] as &$value){
+if (isset($_GET['submit']) && !empty($_GET["list"]))
+    {foreach ($_GET['liste'] as &$value){
         $html.="$value";
     }}
 
