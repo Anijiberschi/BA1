@@ -32,10 +32,10 @@ for($i=0; $i <$max_row;$i++)
     {
         $number=1+$j+($i*$max_col);
         $ligneTab= <<< FDL
-        <td><input type="checkbox" name ="liste[]" value="$number">$number</td>
+        <td><input type="checkbox" name ="liste[$number]" value="$number" check($number)>$number</td>
         FDL;
         $html.=$ligneTab."\n";
-    } 
+    }
     $html.="</tr>\n";
 }
 $jouer=<<<EOT
@@ -63,3 +63,26 @@ $html.="</body>\n</html>";
 
 echo $html;
 
+function check($number)
+{
+    if(isset($_GET('Jouer')) && !empty($_GET['grille']))
+    {
+        if(isset($_GET['grille'][$number]))
+            return 'checked';
+    }
+}
+
+function genRand(){
+    $aGriGagnante=array();
+    $iCpt=0;
+    while($iCpt<6){
+        
+    }
+
+
+
+
+foreach($_GET['cell'] as $iUnNumero)
+{
+    if (in_array($iUnNumero,))
+}
