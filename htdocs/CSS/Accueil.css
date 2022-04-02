@@ -50,7 +50,11 @@ header{
 }
 
 .nav_links li a:hover {
-    color: aqua;
+    color: white;
+    background-color: violet;
+    box-shadow:0 0 10px violet,0 0 40px violet,0 0 80px violet;
+    transition-delay:0,5s;
+    border-radius:6px;
 }
 
 button{
