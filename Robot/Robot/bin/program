@@ -1,0 +1,7 @@
+public class program{
+        public static void main(String[] args) {
+            Robot a=new Robot("Robot A");
+
+            a.afficher();
+        }
+}
